@@ -1,6 +1,6 @@
 name: Victor
 favicon: null
-layout_spectrum: 0.6710484379436821
+layout_spectrum: 1
 typography_spectrum: 0.10462095215916634
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.8034444293007255
+    - '#ccc9b2'
+    - '#0b0216'
+    - '#625742'
+    - '#a49e7c'
+    - '#393034'
+  brandStrength: 0.6875
   lightness: 0.2202923574950546
   saturation: 0.603983041131869
   rhythmicContrast: 0.4671482676640153
