@@ -19,6 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Victor Vroegindeweij
+  email: victor@victorv.nl
+  url: www.victorv.nl
 name: Victor
 cta:
   domain: null
