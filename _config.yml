@@ -1,20 +1,4 @@
-name: Victor
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 1
-title: Victor Vroegindeweij Documentary Film and Reality Based Advertising
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ccc9b2'
@@ -26,4 +10,21 @@ color:
   lightness: 0.2202923574950546
   saturation: 0.603983041131869
   rhythmicContrast: 0.4671482676640153
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Victor
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Victor Vroegindeweij Documentary Film and Reality Based Advertising
+description: Documentary Film and Reality Based Advertising
 purpose: []
